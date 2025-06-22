@@ -63,7 +63,7 @@ If you enjoy **Typing-Tutor Web Game**, ⭐ **star this repository** and share w
 
 ## 🔗 License  
 
-This project is licensed under the **GPL License**.  
+This project is licensed under the **GPLv3 License**.  
 Feel free to **use, modify, and distribute** it freely! 😊  
 
 ---
