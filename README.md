@@ -58,7 +58,7 @@
 
 Made with ❤️ for **typing enthusiasts & keyboard mastery**! ⌨️  
 If you enjoy **Typing-Tutor Web Game**, ⭐ **star this repository** and share with fellow players! 🚀  
-@bocaletto-luca
+
 ---
 
 ## 🔗 License  
